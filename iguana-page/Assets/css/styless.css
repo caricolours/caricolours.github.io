@@ -1,0 +1,118 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: black;
+}
+
+.headerr {
+  height: 59px;
+  background-color: black;
+  text-align: center;
+  padding: 7px 0;
+}
+.headerr .headerteatle {
+  color: white;
+  font-size: 50px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 59px;
+  font-family: raleway;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+
+main img {
+  width: 100%;
+  height: 727px;
+}
+
+.principal {
+  width: 100%;
+  height: 348px;
+  background-color: black;
+  text-align: center;
+}
+.principal .cajaprincipal {
+  height: 237px;
+  background-color: rgb(0, 0, 0);
+  display: flow-root;
+  padding-top: 55px;
+}
+.principal .cajaprincipal .textoprincipal {
+  width: 475px;
+  color: white;
+  font-size: 16px;
+  font-family: raleway;
+  letter-spacing: 0px;
+  line-height: 19px;
+  font-weight: 300;
+  float: left;
+  margin-left: 250px;
+}
+.principal .cajaprincipal .imagenprincipal img {
+  height: 237px;
+  float: right;
+  margin-right: 250px;
+}
+
+.features {
+  background-color: #1E1A13;
+  line-height: 47px;
+  font-weight: 300;
+  font-size: 40px;
+  font-family: raleway;
+  letter-spacing: 0px;
+  color: white;
+  text-align: center;
+  padding: 75px 0;
+}
+.features .feature {
+  color: white;
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  line-height: 29px;
+  font-weight: 300;
+  font-size: 24px;
+  font-family: raleway;
+  padding-top: 50px;
+}
+.features .feature i {
+  display: block;
+  padding-bottom: 17px;
+}
+
+.gallery {
+  width: 100%;
+  text-align: center;
+  padding: 73px 0px;
+}
+.gallery .photo {
+  display: inline-block;
+}
+.gallery .photo img {
+  width: 316px;
+  height: 202px;
+  margin: 0 10px;
+}
+
+.footer {
+  background-color: #1E1A13;
+  height: 110px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  line-height: 24px;
+  font-weight: 300;
+  font-size: 20px;
+  font-family: raleway;
+  padding-top: 60px;
+}
+.footer a {
+  color: white;
+  font-size: 20px;
+}/*# sourceMappingURL=styless.css.map */

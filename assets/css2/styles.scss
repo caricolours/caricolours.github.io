@@ -1,0 +1,27 @@
+
+body {
+    font-family: 'roboto';
+}
+.bg-personalizado {
+    background-color: #364865;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15em;
+    object-fit: cover;
+   
+}
+.card-subtitle {
+    font-size: 16pt;
+    color: #707070;;
+}
+.card-text{
+    font-size: 13pt;
+    font-weight: 300;
+    color: #707070;
+}
+
+.nav-item {
+    color: white;
+}
